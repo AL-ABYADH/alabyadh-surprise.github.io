@@ -1,0 +1,27 @@
+body {
+	text-align: left;
+	background: url(background.jpg) no-repeat center center fixed;
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: 1700px;
+}
+
+.a ,.b {
+	flex-direction: column;
+	justify-content: ;
+	max-width: 900px;
+	margin-top: 70px;
+	font-family: 'Shadows Into Light', cursive;
+	font-weight: 2000px;
+}
+
+.a {
+	font-size: 70px;
+	margin-left: 10px;
+}
+
+.b {
+	margin-left: 10px;
+	font-family: 'Satisfy', cursive
+}
